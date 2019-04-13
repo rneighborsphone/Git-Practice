@@ -1,1 +1,2 @@
-This is a test file used to practice using Github
+This is a test file used to practice using Githu
+I only added a second line
