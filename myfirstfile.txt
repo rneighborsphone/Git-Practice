@@ -2,3 +2,7 @@ This is a test file used to practice using Githu
 I only added a second line
 This file now has three lines
 This is the forth line of text
+Sweet potatos
+dressing
+coconut cake
+This old fashion thanks giving days were so wonderful
